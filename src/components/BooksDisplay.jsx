@@ -1,5 +1,4 @@
 import React from 'react';
-import AddBook from './AddBook';
 
 const BooksDisplay = () => (
   <>
@@ -11,7 +10,6 @@ const BooksDisplay = () => (
         </li>
       </ul>
     </section>
-    <AddBook />
   </>
 );
 

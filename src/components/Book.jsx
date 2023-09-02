@@ -1,6 +1,6 @@
 import React from 'react';
 
-const BooksDisplay = () => (
+const Book = () => (
   <>
     <section>
       <ul className="books-to-read">
@@ -13,4 +13,4 @@ const BooksDisplay = () => (
   </>
 );
 
-export default BooksDisplay;
+export default Book;
